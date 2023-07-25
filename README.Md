@@ -1,0 +1,1 @@
+This is my first project on The Odin Project. I will create a simple webpage containing a few links to some recipes. I'll use skills such as headings, images and links.
